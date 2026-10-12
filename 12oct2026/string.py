@@ -1,5 +1,5 @@
 len("Hello")
 print("finds string length is 5:")
 
-
-print("converts to uppercase")
+len("Hello lower")
+print("converts to uppercase is HELLO")
